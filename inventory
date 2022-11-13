@@ -1,2 +1,4 @@
-10.116.0.3   centos-2
-10.116.0.2   centos-1
+all:
+   hosts:
+     centos1:
+     centos2:
